@@ -106,6 +106,6 @@ Type your question and get RAG-powered answers based uploaded document use the d
 
 3. **Interface** (`app.py`): Gradio web UI with a chatbot, model selector dropdown and clear button. Supports streaming conversation with history.
 
---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 Created By: 
   [@Monesh Devadiga](https://github.com/Monesh-Devadiga)
