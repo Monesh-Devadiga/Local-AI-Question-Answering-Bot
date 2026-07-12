@@ -1,0 +1,19 @@
+Artificial Intelligence: A Brief Overview
+
+Artificial Intelligence (AI) is a branch of computer science that aims to create systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+History of AI
+
+The field of AI was founded in 1956 at the Dartmouth Conference, where the term "Artificial Intelligence" was coined by John McCarthy. Early AI research focused on problem-solving and symbolic methods. The 1960s and 1970s saw advances in natural language processing and expert systems.
+
+Machine Learning
+
+Machine Learning is a subset of AI that enables systems to learn from data. Key approaches include supervised learning, unsupervised learning, and reinforcement learning. Deep learning, a subset of machine learning, uses neural networks with many layers to analyze complex patterns.
+
+Natural Language Processing
+
+Natural Language Processing (NLP) enables machines to understand, interpret, and generate human language. Modern NLP relies heavily on transformer architectures and large language models (LLMs) such as GPT, BERT, and LLaMA.
+
+Retrieval-Augmented Generation
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. RAG systems first retrieve relevant documents from a knowledge base, then use a language model to generate answers based on the retrieved context. This approach reduces hallucination and improves factual accuracy.
