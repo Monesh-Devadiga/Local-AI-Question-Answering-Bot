@@ -1,4 +1,4 @@
-<img width="1893" height="987" alt="Screenshot 2026-07-11 171830" src="https://github.com/user-attachments/assets/4d12bafc-eb9f-419d-a114-64c009d73cb7" />
+
 # Local AI Q&A Bot (Ollama + LangChain)
 
 A local RAG (Retrieval-Augmented Generation) pipeline that answers questions from your PDF and text documents using Ollama and LangChain.
@@ -60,6 +60,8 @@ The app will open in your browser at (http://localhost:8501),
 You can then upload documents and ask questions.
 ```
 
+## Result
+<img width="1893" height="987" alt="Screenshot 2026-07-11 171830" src="https://github.com/user-attachments/assets/4d12bafc-eb9f-419d-a114-64c009d73cb7" />
 ## Usage
 
 ### 1. Add Documents
