@@ -43,6 +43,22 @@ venv\Scripts\activate        # Windows
 pip install -r requirements.txt
 ```
 
+## Run the project
+
+```bash
+# 1. Activate the virtual environment:
+.\venv\Scripts\Activate.ps1
+
+2. Install dependencies (if not already installed):
+pip install -r requirements.txt
+
+3. Run the app:
+streamlit run app.py
+
+The app will open in your browser at (http://localhost:8501),
+You can then upload documents and ask questions.
+```
+
 ## Usage
 
 ### 1. Add Documents
