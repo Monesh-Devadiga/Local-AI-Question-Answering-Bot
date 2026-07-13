@@ -7,7 +7,7 @@ st.set_page_config(page_title="Local AI Q&A Bot", page_icon="🤖", layout="wide
 st.title("Local AI Q&A Bot")
 st.caption("Powered by Ollama + LangChain + ChromaDB ")
 st.markdown("It can answer questions from a set of Upload Documents (PDF/text documents).", unsafe_allow_html=True)
- 
+  
 model_name = st.selectbox("Select Ollama Model", AVAILABLE_MODELS, index=0)
 
 with st.sidebar:
