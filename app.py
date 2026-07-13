@@ -2,7 +2,7 @@ import os
 import streamlit as st
 from rag_engine import get_rag_chain, AVAILABLE_MODELS
 from ingest import CHROMA_DIR, ingest_uploaded_file
-  
+   
 st.set_page_config(page_title="Local AI Q&A Bot", page_icon="🤖", layout="wide")
 st.title("Local AI Q&A Bot")
 st.caption("Powered by Ollama + LangChain + ChromaDB ")
